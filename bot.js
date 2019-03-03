@@ -2139,4 +2139,4 @@ message.author.sendEmbed(embed)
 
 
 
-client.login(NTUxNjAwMTQ0NTY3NjMxODcy.D1zVNg.lpxplikuHFWPDerzPPREioVwnh0);
+client.login("NTUxNjAwMTQ0NTY3NjMxODcy.D1zVNg.lpxplikuHFWPDerzPPREioVwnh0");
